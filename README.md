@@ -1,1 +1,1 @@
-# codespaces-demo
+# Codespaces for Bash Scripts
